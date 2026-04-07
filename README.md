@@ -7,9 +7,8 @@
 Goal-driven individual with a passion for technology and a growing specialization in cybersecurity, dedicated to continuously learning and developing skills to protect systems and data.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-
+My journey in Information Systems has led me to a deep interest in cybersecurity. I have a strong foundation and a dedication to growth, and I’m ready to break into the field, take on new challenges, and level up every day. I believe that comfort holds you back, and that true growth happens when you push beyond limits because there’s always more to achieve.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -59,11 +58,21 @@ Goal-driven individual with a passion for technology and a growing specializatio
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.comptia.org/certifications/a">
+  <img src="https://img.shields.io/badge/-CompTIA_A+-000080?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+<a href="https://www.comptia.org/certifications/network">
+  <img src="https://img.shields.io/badge/-CompTIA_Network+-000080?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+<a href="https://www.comptia.org/certifications/security">
+  <img src="https://img.shields.io/badge/-CompTIA_Security+-000080?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-CIOS-000080?&style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-CSIS-000080?&style=for-the-badge" />
+</a>
 </div>
 
 ## Projects
