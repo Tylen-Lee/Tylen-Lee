@@ -1,5 +1,7 @@
 # Hello, I'm Tylen
-<a href="www.linkedin.com/in/tylen-lee-reddy-8559a1102"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tylen-lee-reddy-8559a1102">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 [Brief Introduction - Remove this afterwards]
 
