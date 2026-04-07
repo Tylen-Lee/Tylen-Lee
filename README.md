@@ -10,20 +10,27 @@ Goal-driven individual with a passion for technology and a growing specializatio
 
 My journey in Information Systems has led me to a deep interest in cybersecurity. I have a strong foundation and a dedication to growth, and I’m ready to break into the field, take on new challenges, and level up every day. I believe that comfort holds you back, and that true growth happens when you push beyond limits because there’s always more to achieve.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🧰 Tools & Technologies
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+**SIEM & Monitoring**  
+- Splunk (Learning & Labs)
+
+**Security Tools**  
+- Snort  
+- Nessus  
+- SET Toolkit  
+
+**Operating Systems**  
+- Windows  
+- Linux (Kali)
+
+**Core Concepts**  
+- SIEM (Security Information and Event Management)  
+- IDS / IPS  
+- Networking (OSI Model)  
+- Threat Detection  
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -56,7 +63,7 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 </div>    
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://www.comptia.org/certifications/a">
   <img src="https://img.shields.io/badge/-CompTIA_A+-000080?&style=for-the-badge&logo=comptia&logoColor=white" />
