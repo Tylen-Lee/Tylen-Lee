@@ -84,4 +84,4 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 
 ## Projects
 - [Cybersecurity-Virtual-Lab-Network-Security-Simulation](https://github.com/Tylen-Lee/Cybersecurity-Virtual-Lab-Network-Security-Simulation)
-- SOC Automation Project
+- Network-Traffic-Analysis-Lab-Wireshark-Virtual-Machines
