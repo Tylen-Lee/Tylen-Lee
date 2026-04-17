@@ -3,6 +3,10 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://tryhackme.com/p/TylenLee">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
 
 Goal-driven individual with a passion for technology and a growing specialization in cybersecurity, dedicated to continuously learning and developing skills to protect systems and data.
 
