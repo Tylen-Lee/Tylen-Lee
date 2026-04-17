@@ -85,3 +85,6 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 ## Projects
 - [Cybersecurity-Virtual-Lab-Network-Security-Simulation](https://github.com/Tylen-Lee/Cybersecurity-Virtual-Lab-Network-Security-Simulation)
 - [Network-Traffic-Analysis-Lab-Wireshark-Virtual-Machines](https://github.com/Tylen-Lee/Network-Traffic-Analysis-Lab-Wireshark-Virtual-Machines)
+- [Ubuntu-Networking-Samba-Configuration-Lab](https://github.com/Tylen-Lee/Ubuntu-Networking-Samba-Configuration-Lab)
+- [Threat-Detection-Vulnerability-Management-Lab](https://github.com/Tylen-Lee/Threat-Detection-Vulnerability-Management-Lab)
+- [Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation](https://github.com/Tylen-Lee/Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation)
