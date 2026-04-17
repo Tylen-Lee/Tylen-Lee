@@ -84,6 +84,9 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 <a href="#">
   <img src="https://img.shields.io/badge/-CSIS-000080?&style=for-the-badge" />
 </a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1XUKO4WPUY.pdf">
+  <img src="https://img.shields.io/badge/-TryHackMe_Cybersecurity_101-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" />
+</a>
 </div>
 
 ## Projects
