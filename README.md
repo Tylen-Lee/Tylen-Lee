@@ -72,8 +72,8 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 <a href="https://www.credly.com/badges/0070479b-60f1-49d9-92ac-bdf9137deaaa/public_url">
   <img src="https://img.shields.io/badge/-CompTIA_A+-E60012?&style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
-<a href="https://www.comptia.org/certifications/network">
-  <img src="https://img.shields.io/badge/-CompTIA_Network+-000080?&style=for-the-badge&logo=comptia&logoColor=white" />
+<a href="https://www.credly.com/badges/e2cdd7a5-240e-4326-a772-c547511b7e8f/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_Network+-E60012?&style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
 <a href="https://www.comptia.org/certifications/security">
   <img src="https://img.shields.io/badge/-CompTIA_Security+-000080?&style=for-the-badge&logo=comptia&logoColor=white" />
