@@ -78,11 +78,11 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 <a href="https://www.credly.com/badges/7b9356fa-ae83-479d-a9bb-13fa18c1f99e/public_url">
   <img src="https://img.shields.io/badge/-CompTIA_Security+-E60012?&style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-CIOS-000080?&style=for-the-badge" />
+<a href="https://www.credly.com/badges/c1421bf9-e0d3-42d9-9c8b-9c1f03542954/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_CIOS-CC0000?&style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-CSIS-000080?&style=for-the-badge" />
+<a href="https://www.credly.com/badges/83dd88da-6804-49bc-8804-6575a03d4f0e/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_CSIS-CC0000?&style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1XUKO4WPUY.pdf">
   <img src="https://img.shields.io/badge/-Cybersecurity_101-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" />
