@@ -95,3 +95,4 @@ My journey in Information Systems has led me to a deep interest in cybersecurity
 - [Ubuntu-Networking-Samba-Configuration-Lab](https://github.com/Tylen-Lee/Ubuntu-Networking-Samba-Configuration-Lab)
 - [Threat-Detection-Vulnerability-Management-Lab](https://github.com/Tylen-Lee/Threat-Detection-Vulnerability-Management-Lab)
 - [Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation](https://github.com/Tylen-Lee/Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation)
+- [VPN Compromise & Lateral Movement Investigation](https://github.com/Tylen-Lee/VPN-Compromise-Lateral-Movement-Investigation-THM)
